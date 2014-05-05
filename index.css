@@ -1,0 +1,152 @@
+body{
+	background: #FFFFFF url("foto/img01.jpg") repeat-x top left; 
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin: 20px 0px 0px 0px;
+	padding: 0px;
+	color: #757575;
+}
+.container{
+	position:relative;
+	width: 940px;
+	margin:0 auto;
+	float: center; 
+}
+.shapka{
+	position:relative;
+	width:940px;
+	height:115px;
+	margin:0 auto; 
+	float:center;
+	background: url("foto/img04.jpg") no-repeat;
+	background-position: 50% 0% ;
+}
+a{
+	color:#ffffff;
+}
+.menu {
+height: 34px;
+width: 871px;
+padding-left: 20px;
+background: url(foto/img02.jpg) no-repeat center;
+font-family: Arial, Helvetica, sans-serif;
+display:line;   
+margin: 0px auto;
+background-size:cover;
+text-decoration:none; 
+
+}
+ul.menu {
+   margin: 0 auto; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    position:center;
+
+   }
+   ul.menu li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-top:10px; 
+    padding: 11px 49px 12px 90px;/* Поля вокруг текста */
+    font-size:15pt;
+
+
+   }
+.menu a:hover{
+    color:#FF5F5F;
+    text-decoration:none; 
+}
+
+.text{
+	background:#FFFFFF; 
+	position:relative; 
+	width: 650px;
+	margin:0 auto; 
+	border:1px dashed #888888;
+	top: 2px; 
+	float: left;
+}
+h1{
+	text-align:center; 
+	color:#000000;
+	text-decoration:none;
+
+	
+}
+.historydrift{
+	width:809px;
+	height:400px;
+
+}
+hr{
+	color:white;
+	border:2px solid white;
+}
+p{
+	color:#000000;
+	margin: 18px;
+}
+.video{
+ margin:0 auto;
+ width:410px; 
+}
+h3{
+	color:#000000;
+}
+h2{
+	text-align:center; 
+	color:#000000;
+}
+}
+.footer{
+	background: #FFFFFF url("foto/img01.jpg") repeat-x top left;
+	width: 339px;
+	position:relative;
+	margin:0 auto;
+	padding: 506px 69px 16px 71px;
+	top: 25px;
+	left:55px;
+	color: #757575; 
+}
+.texnikadrift{
+	position:relative; 
+	 width:400px; 
+	 height:300px; 
+	 float:left; 
+	 margin:5px; 
+}
+.bilet{
+	color:orange;
+}
+.kontaktleft{
+	font-size:12pt; 
+}
+.kontaktright{
+	font-size:9pt; 
+}
+
+.menutext{
+	color:#ffffff; 
+}
+.ooo{
+	 margin: 0 auto; /* Обнуляем значение отступов */
+    padding: 1px 214px 12px 178px; /* Значение полей */
+    position:center;
+    font-size:25px; 
+}
+.contact{
+	background:#FFFFFF; 
+	position:relative; 
+	width: 210px;
+	margin:0 auto; 
+	border:1px dashed #888888;
+	top: 2px; 
+	float: right;
+}
+.legalleft{
+float:left; 
+}
+.legalright{
+float:right;
+}
+.reqesit{
+	font-size:15pt; 
+}
